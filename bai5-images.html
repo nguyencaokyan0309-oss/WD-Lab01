@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Bài 5 - Image + Text Demonstration</title>
+</head>
+<body>
+  <h1>IMAGES</h1>
+  <p>This page shows how HTML groups an image with the text that describes it.</p>
+
+  <main>
+    <section id="image-demo">
+      <article id="glacier">
+        <h2>Glacier and Lake</h2>
+        <figure>
+          <img src="images/scene.jpg" alt="Snowy glacier flowing down a dark mountain into a calm blue lake" width="164">
+          <figcaption>Figure 1 – A glacier meeting the lake.</figcaption>
+        </figure>
+        <p>
+          A paragraph with an image. In old HTML the <strong>align</strong> attribute
+          made the image float to the left of this text. In Lab01 we do not use CSS,
+          so the image and its caption are grouped inside <em>figure</em> and the
+          description follows below.
+        </p>
+      </article>
+
+      <hr>
+
+      <article id="astronaut">
+        <h2>Astronaut in Space</h2>
+        <figure>
+          <img src="images/space.jpg" alt="Astronaut in a white spacesuit floating above the Earth" width="164">
+          <figcaption>Figure 2 – An astronaut floating above the Earth.</figcaption>
+        </figure>
+        <p>
+          A paragraph with an image. The sample placed this image on the
+          <strong>right</strong> of the text. Positioning (float left/right) will be done
+          with CSS in a later lab; here the HTML only describes the content and its meaning.
+        </p>
+      </article>
+    </section>
+  </main>
+
+  <hr>
+  <footer>
+    <p><a href="index.html">Back to Main Page</a></p>
+  </footer>
+</body>
+</html>
