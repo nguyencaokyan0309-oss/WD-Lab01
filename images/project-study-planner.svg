@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="420" height="260" viewBox="0 0 420 260">
+  <title>Final-year study planner page</title>
+  <rect width="420" height="260" rx="16" fill="#ecfdf5"/>
+  <text x="24" y="44" font-family="Segoe UI, Arial, sans-serif" font-size="22" font-weight="700" fill="#065f46">Study Planner 2026</text>
+  <g font-family="Segoe UI, Arial, sans-serif" font-size="13" fill="#064e3b">
+    <rect x="24" y="64" width="372" height="30" fill="#10b981"/>
+    <text x="36" y="84" fill="#ffffff">Day</text>
+    <text x="150" y="84" fill="#ffffff">Subject</text>
+    <text x="300" y="84" fill="#ffffff">Hours</text>
+    <rect x="24" y="94" width="372" height="30" fill="#d1fae5"/>
+    <text x="36" y="114">Monday</text><text x="150" y="114">Web Design</text><text x="300" y="114">3</text>
+    <rect x="24" y="124" width="372" height="30" fill="#ffffff"/>
+    <text x="36" y="144">Wednesday</text><text x="150" y="144">Graduation Project</text><text x="300" y="144">4</text>
+    <rect x="24" y="154" width="372" height="30" fill="#d1fae5"/>
+    <text x="36" y="174">Friday</text><text x="150" y="174">English (IELTS)</text><text x="300" y="174">2</text>
+    <rect x="24" y="184" width="372" height="30" fill="#ffffff"/>
+    <text x="36" y="204">Sunday</text><text x="150" y="204">Review &amp; Git push</text><text x="300" y="204">2</text>
+  </g>
+  <text x="396" y="244" font-family="Segoe UI, Arial, sans-serif" font-size="13" text-anchor="end" fill="#047857">table / thead / tbody / tr / th / td</text>
+</svg>
