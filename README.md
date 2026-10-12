@@ -1,6 +1,6 @@
 # WD-Lab01 – HTML Fundamentals & Document Structure
 
-Student: Nguyen Cao Ky An – 23110064
+Student: Nguyễn Cao Kỳ Ân – 23110064
 Course: Thiết Kế Web (Web Design)
 
 ## Run
